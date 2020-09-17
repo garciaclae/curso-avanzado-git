@@ -1,4 +1,4 @@
-## curso-avanzado-git 2
+# Curso-avanzado-git 2
 Repositorio Ejemplo
 
 # Descripción del proyecto
@@ -27,5 +27,5 @@ Ejemplo de repositorio del curso de código fuente avanzado
    }
 ```
   
- # Contribuidores
+ # Contributors
 Claudia E García
