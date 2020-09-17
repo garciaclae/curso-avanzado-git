@@ -1,4 +1,4 @@
-# curso-avanzado-git
+## curso-avanzado-git 2
 Repositorio Ejemplo
 
 # Descripción del proyecto
