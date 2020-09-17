@@ -29,3 +29,4 @@ Ejemplo de repositorio del curso de código fuente avanzado
   
  # Contribuidores
 Claudia E García
+***Instructor:*** Ricardo Lopez
